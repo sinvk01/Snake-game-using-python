@@ -1,1 +1,4 @@
-# Snake-game-using-python![download](https://user-images.githubusercontent.com/78841587/155892859-bfe7c349-45e7-40fe-8c53-cb32f09c0c98.jpg)
+# Snake-game-using-python
+
+
+![Snake game](https://user-images.githubusercontent.com/78841587/155892972-7cb281a4-6c61-4b73-b042-933020e97f3a.png)
